@@ -125,6 +125,6 @@ class Pet:
         """
         Celebrate the pet's birthday, increasing age by one year and happiness to max.
         """
-        self.age += 365
+        self.age += 36
         self.happiness = 10
         print(f"��🎂 Happy Birthday, {self.name}! Wishing you a fantastic year ahead! �")
